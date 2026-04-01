@@ -46,7 +46,7 @@ README.md            - Documentation
 ## Installation
 
 ### Step 1: Clone the repository
-git clone https://github.com/YOUR_USERNAME/wsd-ml-project.git  
+git clone https://github.com/Mohan-Narayanapuram/wsd-ml-project.git  
 cd wsd-ml-project  
 
 ### Step 2: Create virtual environment
